@@ -13,4 +13,3 @@
   HTML5
   CSS3
   JavaScript
-  Bootstrap (if used)
