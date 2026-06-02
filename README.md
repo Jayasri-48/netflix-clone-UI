@@ -1,7 +1,7 @@
-#  🎬Netflix-Clone-UI
+#  🎬 Netflix-Clone-UI
    A responsive Netflix-inspired web application built to replicate the user interface and user experience of Netflix. This project demonstrates front-end development skills, and modern web technologies.
 
- #  🚀Features
+ #  🚀 Features
  * Netflix-inspired UI designs
  * Interactive navigation bar
  * Movie/TV show showcase sections
